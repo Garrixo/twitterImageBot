@@ -1,0 +1,19 @@
+{
+    "twitter": {
+        "api_key": "",
+        "api_secret_key": "",
+        "access_token": "",
+        "access_token_secret": "",
+        "client_id": "",
+        "client_secret": "",
+        "bearer_token": ""
+    },
+    "azure": {
+        "subscription_key": "",
+        "endpoint": ""
+    },
+    "openai_credentials": {
+        "api_key": ""
+
+    }
+}
